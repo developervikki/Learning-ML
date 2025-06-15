@@ -1,0 +1,21 @@
+CustomerID,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,InternetService,Contract,MonthlyCharges,TotalCharges,Churn
+C0001,Male,0,Yes,No,1,Yes,Fiber optic,Month-to-month,29.85,29.85,No
+C0002,Female,1,No,Yes,12,Yes,DSL,One year,56.95,682.95,Yes
+C0003,Male,0,Yes,No,24,Yes,No,Two year,42.3,1015.2,No
+C0004,Female,1,No,Yes,5,Yes,Fiber optic,Month-to-month,99.99,499.95,Yes
+C0005,Male,0,Yes,No,8,Yes,DSL,One year,69.5,556.0,No
+C0006,Female,1,No,Yes,36,Yes,No,Two year,45.75,1647.0,No
+C0007,Male,0,Yes,No,15,Yes,Fiber optic,Month-to-month,88.3,1324.5,Yes
+C0008,Female,1,No,Yes,48,Yes,DSL,One year,30.99,1487.52,No
+C0009,Male,0,Yes,No,60,Yes,No,Two year,79.99,4800.0,No
+C0010,Female,1,No,Yes,72,Yes,Fiber optic,Month-to-month,65.4,4708.8,Yes
+C0011,Male,0,Yes,No,3,Yes,DSL,One year,52.3,156.9,No
+C0012,Female,1,No,Yes,6,Yes,No,Two year,43.85,262.3,No
+C0013,Male,0,Yes,No,20,Yes,Fiber optic,Month-to-month,110.25,2205.0,Yes
+C0014,Female,1,No,Yes,30,Yes,DSL,One year,59.6,1788.0,No
+C0015,Male,0,Yes,No,50,Yes,No,Two year,49.99,2499.5,Yes
+C0016,Female,1,No,Yes,10,Yes,Fiber optic,Month-to-month,95.75,957.5,No
+C0017,Male,0,Yes,No,40,Yes,DSL,One year,78.4,3136.0,No
+C0018,Female,1,No,Yes,25,Yes,No,Two year,55.5,1225.5,Yes
+C0019,Male,0,Yes,No,55,Yes,Fiber optic,Month-to-month,69.99,3849.45,No
+C0020,Female,1,No,Yes,70,Yes,DSL,One year,85.6,5992.0,Yes

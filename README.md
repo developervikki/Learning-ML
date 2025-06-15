@@ -1,4 +1,4 @@
-# 🤖 AI & Machine Learning with Python – Learning Journey 🚀
+# 🤖 AI & Machine Learning with Python – Learning Journey 
 
 Welcome to my AI/ML learning repository! 👋  
 This repo is a collection of my personal learning, practice notebooks, and projects as I explore the world of **Artificial Intelligence and Machine Learning** using Python and its powerful libraries.

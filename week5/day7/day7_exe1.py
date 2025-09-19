@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error, classification_report, confusion
 
 # Load Telco Customer Churn Dataset
 df_telco = pd.read_csv('data.csv')
-
+ 
 # Display dataset info and basic statistics
 print(df_telco.info())
 print(df_telco.describe())
@@ -78,3 +78,4 @@ y_pred_knn = knn_model.predict(X_test)
 print("\nKNN Model Evaluation:")
 print(classification_report(y_test, y_pred_knn))
 print(confusion_matrix(y_test, y_pred_knn))
+

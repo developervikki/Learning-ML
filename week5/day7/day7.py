@@ -2,7 +2,7 @@
 
 
 import matplotlib.pyplot as plt
-from sklearn.datasets import fetch_california_housing
+from sklearn.datasets import fetch_california_housing 
 
 #load Data
 data=fetch_california_housing(as_frame=True)
@@ -20,4 +20,5 @@ plt.show()
 
 #check For Missing Values
 print("Missing Values: \n", df.isnull().sum())
+
 
